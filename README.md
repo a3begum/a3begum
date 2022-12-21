@@ -10,7 +10,4 @@ About Me
 
 📚 Trying to learn more programming languages and frameworks.
 
-<!---
-a3begum/a3begum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
